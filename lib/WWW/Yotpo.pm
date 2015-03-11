@@ -7,7 +7,6 @@ our $VERSION = '0.01';
 use Carp;
 use LWP::UserAgent;
 use JSON;
-use MIME::Base64;
 use HTTP::Request;
 use vars qw/$errstr/;
 
